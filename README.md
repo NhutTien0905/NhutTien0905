@@ -2,7 +2,7 @@
 - 👀 I’m interested in eating and sleeping
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contact bachnhuttien@gmail.com or phone number 0919512867
+- 📫 How to reach me contact bachnhuttien@gmail.com or phone number (+84)919512867
 
 <!---
 NhutTien0905/NhutTien0905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
